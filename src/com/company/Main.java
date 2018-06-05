@@ -14,7 +14,7 @@ public class Main {
 
          Logical Operators
          && : and
-         | | : or
+         || : or
          ! : not
 
 
