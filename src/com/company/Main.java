@@ -6,11 +6,11 @@ public class Main {
 	/*
          Relational Operators
          < : less than
-         < = : Less than or equal to
-         > : greater than
-         > = : greater than or equal to
-         = : equals
-         = / : not equal to
+         <= : Less than or equal to
+         >: greater than
+         >= : greater than or equal to
+         == : equals
+         != : not equal to
 
          Logical Operators
          && : and
