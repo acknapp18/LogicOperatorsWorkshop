@@ -44,7 +44,7 @@ public class Main {
 
 
 
-        if(a != x && y + y == a){
+        if(a != x || y + y == a){
             // Will this system run?
             System.out.println("a != x && y + y == a");
             // Yes, this will run because one of our conditions is true. All you need is a single true condition for an OR operator to be true.
